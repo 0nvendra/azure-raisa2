@@ -1,0 +1,205 @@
+[09-Feb-2019 14:43:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in /home/maulanar/subdo/csi/backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[09-Feb-2019 14:46:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in /home/maulanar/subdo/csi/backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[09-Feb-2019 14:47:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in /home/maulanar/subdo/csi/backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[09-Feb-2019 14:47:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in /home/maulanar/subdo/csi/backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[09-Feb-2019 14:49:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in /home/maulanar/subdo/csi/backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 157
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 169
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 175
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 187
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 194
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_DB has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 198
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 336
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 494
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 605
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 632
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_DB has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 747
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 772
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; TmpFile has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 1100
+[11-Feb-2019 10:42:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/maulanar/subdo/csi/backend/public/4dminer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 9
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 157
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 169
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 175
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 187
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 194
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_DB has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 198
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 336
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 494
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 605
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 632
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_DB has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 747
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 772
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; TmpFile has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 1100
+[11-Feb-2019 10:42:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/maulanar/subdo/csi/backend/public/4dminer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 9
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 157
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 169
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 175
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 187
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_SQLite has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 194
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_DB has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 198
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 336
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 494
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 605
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 632
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_DB has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 747
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Min_Result has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 772
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; TmpFile has a deprecated constructor in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 1100
+[11-Feb-2019 10:46:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in /home/maulanar/subdo/csi/backend/public/4dminer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/maulanar/subdo/csi/backend/public/4dminer.php on line 9
+[21-Oct-2020 09:00:41 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:01:29 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:02:35 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:04:20 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:04:23 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:04:29 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:05:22 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:07:30 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:08:26 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:15:37 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:15:40 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:15:40 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:16:38 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:16:38 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:16:41 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:17:00 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:17:36 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:18:39 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:20:53 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:26:39 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:40:54 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:40:55 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 09:48:02 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:07:26 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:07:28 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:07:28 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:07:32 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:09:52 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:11:55 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:23:06 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:23:48 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 10:30:08 Asia/Jakarta] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in /home/rape6953/RIISA/vendor/symfony/translation/TranslatorInterface.php on line 24
+[21-Oct-2020 15:40:14 Asia/Jakarta] PHP Fatal error:  Trait 'App\SoftDeletes' not found in /home/rape6953/RIISA/app/Proyek.php on line 10
+[28-Oct-2020 13:24:48 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rape6953/RIISA/vendor/dompdf/dompdf/src/Css/Style.php on line 872
+[28-Oct-2020 13:25:19 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rape6953/RIISA/vendor/dompdf/dompdf/src/Css/Style.php on line 579
+[28-Oct-2020 13:26:13 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rape6953/RIISA/vendor/dompdf/dompdf/src/Css/Stylesheet.php on line 1082
+[11-Feb-2021 09:38:10 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:38:11 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:38:12 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:38:12 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:38:13 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:38:13 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:38:13 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:38:29 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 3
+[11-Feb-2021 09:40:43 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:40:44 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 09:40:44 Asia/Jakarta] PHP Warning:  exec() has been disabled for security reasons in /home/rape6953/public_html/RIISA/info.php on line 4
+[11-Feb-2021 11:48:14 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/rape6953/public_html/RIISA/info.php on line 14
+[11-Feb-2021 11:57:02 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/rape6953/public_html/RIISA/info.php on line 14
+[29-Mar-2021 11:57:46 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[29-Mar-2021 11:57:48 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[29-Mar-2021 11:57:48 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[29-Mar-2021 11:57:49 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[29-Mar-2021 11:57:49 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[29-Mar-2021 11:57:51 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[29-Mar-2021 11:58:16 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[29-Mar-2021 11:59:12 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[18-May-2021 10:00:14 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[18-May-2021 10:00:19 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[18-May-2021 10:00:23 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php:779
+Stack trace:
+#0 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(779): ReflectionClass->__construct('view')
+#1 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(658): Illuminate\Container\Container->build('view')
+#2 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(609): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(759): Illuminate\Container\Container->make('view', Array)
+#4 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php(1222): Illuminate\Foundation\Application->make('view')
+#5 /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illuminate\Container\Container->offsetGet('view')
+#6 / in /home/rape6953/RIISA/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 779
+[10-Jan-2022 08:27:19 Asia/Jakarta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rape6953/RIISA/routes/web.php on line 675
